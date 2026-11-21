@@ -2,7 +2,7 @@
 
 Email Me 👉 ✉️ **suvayughosh2006@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** J.A.R.V.I.S
+- 🔭 **I’m currently working on:** Ultron
 - 🌱 **I’m currently learning:** AI And Machine Learning
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** suvayughosh2006@gmail.com
@@ -17,7 +17,7 @@ Email Me 👉 ✉️ **suvayughosh2006@gmail.com** For Collaboration/Project or 
 </div>
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Suvayu2006&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Suvayu2006&theme=dark&hide_border=false)<br/>
